@@ -3,6 +3,6 @@ Super simple &amp; responsive template with minimal styling and mobile navigatio
 
 ## Preview:
 
-<img src="https://raw.githubusercontent.com/peteee/HTML-mini-template/main/preview/1.png">
+<img src="https://raw.githubusercontent.com/peteee/HTML-mini-template/main/preview/1.png" width="320">
 
-<img src="https://raw.githubusercontent.com/peteee/HTML-mini-template/main/preview/2.png">
+<img src="https://raw.githubusercontent.com/peteee/HTML-mini-template/main/preview/2.png" width="320">
